@@ -28,5 +28,5 @@ CORS Restrictions: Some APIs have Cross-Origin Resource Sharing (CORS) restricti
 ## Author
 
 - Your Name - Gautam Verma
-- GitHub: [Your GitHub Profile]([https://github.com/your-username](https://github.com/gautamakky)https://github.com/gautamakky)
+- GitHub: https://github.com/gautamakky
   
